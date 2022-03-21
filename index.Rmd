@@ -1,0 +1,38 @@
+---
+pagetitle: "LMMC 2022 @ Calvin"
+title: "Lower Michigan Mathematics Competition"
+date: "April 2, 2022"
+output: 
+  html_document:
+    theme: yeti
+---
+
+```{r setup, include=FALSE}
+knitr::opts_chunk$set(echo = TRUE)
+```
+
+### The Competition
+
+The Lower Michigan Mathematics Competition is an annual event for university
+students from all around Michigan. Teams of 2-3 students will have 3 hours to
+create written solutions for ten problems. All work is to be done without the
+use of calculators, computers, or any other electronic devices. Solutions will
+be scored for correctness, completeness, style, and elegance.
+
+### Registration
+
+* Please register using 
+[EventBrite](https://www.eventbrite.com/e/lower-michigan-mathematics-competition-tickets-297095299037)
+* Cost: $20 per team (2-3 members per team)
+ 
+### Key Info
+
+* Date: Saturday, April 2
+* Time: 12:00 - 12:15 registration; 12:30 - 4:30 competition
+* Location: Calvin University Science Complex
+([Science Building](https://calvin.edu/directory/places/science-building)
+and [North Hall](https://calvin.edu/directory/places/north-hall))
+* Parking: Details coming soon
+
+
+
