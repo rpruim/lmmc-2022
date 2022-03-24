@@ -22,17 +22,40 @@ be scored for correctness, completeness, style, and elegance.
 ### Registration
 
 * Please register using 
-[EventBrite](https://www.eventbrite.com/e/lower-michigan-mathematics-competition-tickets-297095299037)
-* Cost: $20 per team (2-3 members per team)
+[**EventBrite**](https://www.eventbrite.com/e/lower-michigan-mathematics-competition-tickets-297095299037)
+* **Cost:** $20 per team (2-3 members per team)
  
-### Key Info
+### Logisitics 
 
-* Date: Saturday, April 2
-* Time: 12:00 - 12:15 registration; 12:30 - 4:30 competition
-* Location: Calvin University Science Complex
+* **Date:** Saturday, April 2
+* **Time:** 12:00 - 12:15 registration; 12:30 - 4:30 competition
+
+    * Registration will be in the Science Building Atrium. After checking in, teams can locate their competition
+    rooms and then assemble in SB 110 at 12:20 for last-minute instructions and to receive their test packets.
+    
+    * Upon completion of the competition, exams can be returned to SB 110. Those who wish to stay
+    for a problem debriefing where students can present solutions are invited to do so.
+    
+* **Location:** Calvin University Science Complex
 ([Science Building](https://calvin.edu/directory/places/science-building)
 and [North Hall](https://calvin.edu/directory/places/north-hall))
-* Parking: Details coming soon
+* **Parking:** Parking is free.  You may park in any lot along the west edge of
+campus.  Lots 4 and 5 are the closest to the Science Building and North Hall.
+* [**Campus Map**](https://calvin.edu/map/?place=north-hall)
+* **Food.** 
+    * We are not providing a meal this year due to COVID-related uncertainties 
+    * We will provide some light snacks that teams may bring with them into the competition rooms. 
+    * On-campus food options are limited on Saturdays, but there are a number of 
+[restaurants near campus](https://www.google.com/maps/search/restaurant+near+cavlin+university/@42.9214762,-85.5904898,15z),
+especially south of campus along 28th Street (Highway 11 on some maps, but no locals call it that).
+    * Feel free to bring take-out food, sack lunches, etc. with you to the competition.  Just be sure to
+    leave the room as you found it (or better) at the end of the competition.
+
+* **Masks** are *not* currently required on Calvin's campus. If this should
+change, we will update here and also make masks available for anyone who does
+not bring their own. Of course, individuals are welcome to choose to wear a mask
+at any time.
+
 
 
 
