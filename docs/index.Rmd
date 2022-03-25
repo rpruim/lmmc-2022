@@ -30,15 +30,15 @@ be scored for correctness, completeness, style, and elegance.
 * **Date:** Saturday, April 2
 * **Time:** 12:00 - 12:15 registration; 12:30 - 4:30 competition
 
-    * Registration will be in the Science Building Atrium. After checking in, teams can locate their competition
+    * Registration will be in the DeVries Hall Atrium. After checking in, teams can locate their competition
     rooms and then assemble in SB 110 at 12:20 for last-minute instructions and to receive their test packets.
     
     * Upon completion of the competition, exams can be returned to SB 110. Those who wish to stay
     for a problem debriefing where students can present solutions are invited to do so.
     
 * **Location:** Calvin University Science Complex
-([Science Building](https://calvin.edu/directory/places/science-building)
-and [North Hall](https://calvin.edu/directory/places/north-hall))
+([Science Building](https://calvin.edu/directory/places/science-building),
+[North Hall](https://calvin.edu/directory/places/north-hall), and [DeVries Hall](https://calvin.edu/directory/places/de-vries-hall) are three adjoining buildings.)
 * **Parking:** Parking is free.  You may park in any lot along the west edge of
 campus.  Lots 4 and 5 are the closest to the Science Building and North Hall.
 * [**Campus Map**](https://calvin.edu/map/?place=north-hall)
