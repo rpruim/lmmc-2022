@@ -33,7 +33,8 @@ be scored for correctness, completeness, style, and elegance.
     * Registration will be in the DeVries Hall Atrium. After checking in, teams can locate their competition
     rooms and then assemble in SB 110 at 12:20 for last-minute instructions and to receive their test packets.
    
-        You are getting close if you see this sculpture. Walk past it to get to the entrance.
+        You are getting close if you see this sculpture (visible from the main road). 
+        Walk past it to get to the entrance.
         
 ```{r echo = FALSE, out.width = 200, fig.align = "center", indent = "        "}
 knitr::include_graphics("https://3.bp.blogspot.com/-jnm4zLea7gc/TkReQP95dUI/AAAAAAAABx8/OIWd8rrePnI/s1600/3.jpg")
