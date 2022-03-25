@@ -32,13 +32,20 @@ be scored for correctness, completeness, style, and elegance.
 
     * Registration will be in the DeVries Hall Atrium. After checking in, teams can locate their competition
     rooms and then assemble in SB 110 at 12:20 for last-minute instructions and to receive their test packets.
+   
+        You are getting close if you see this sculpture. Walk past it to get to the entrance.
+        
+```{r echo = FALSE, out.width = 200, fig.align = "center", indent = "        "}
+knitr::include_graphics("https://3.bp.blogspot.com/-jnm4zLea7gc/TkReQP95dUI/AAAAAAAABx8/OIWd8rrePnI/s1600/3.jpg")
+```
     
     * Upon completion of the competition, exams can be returned to SB 110. Those who wish to stay
     for a problem debriefing where students can present solutions are invited to do so.
     
 * **Location:** Calvin University Science Complex
 ([Science Building](https://calvin.edu/directory/places/science-building),
-[North Hall](https://calvin.edu/directory/places/north-hall), and [DeVries Hall](https://calvin.edu/directory/places/de-vries-hall) are three adjoining buildings.)
+[North Hall](https://calvin.edu/directory/places/north-hall), and [DeVries Hall](https://calvin.edu/directory/places/devries-hall) are three adjoining buildings making
+up the Science Building Complex.)
 * **Parking:** Parking is free.  You may park in any lot along the west edge of
 campus.  Lots 4 and 5 are the closest to the Science Building and North Hall.
 * [**Campus Map**](https://calvin.edu/map/?place=north-hall)
