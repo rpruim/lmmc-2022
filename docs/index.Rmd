@@ -46,7 +46,7 @@ knitr::include_graphics("https://3.bp.blogspot.com/-jnm4zLea7gc/TkReQP95dUI/AAAA
 * **Location:** Calvin University Science Complex
 ([Science Building](https://calvin.edu/directory/places/science-building),
 [North Hall](https://calvin.edu/directory/places/north-hall), and [DeVries Hall](https://calvin.edu/directory/places/devries-hall) are three adjoining buildings making
-up the Science Building Complex.)
+up the Science Complex.)
 * **Parking:** Parking is free.  You may park in any lot along the west edge of
 campus.  Lots 4 and 5 are the closest to the Science Building and North Hall.
 * [**Campus Map**](https://calvin.edu/map/?place=north-hall)
